@@ -1,5 +1,5 @@
-print("Press 1 to convert a word into a jumbled word")
-print("Press 2 to convert a jumbled into a word")
+print("Press 1 to  a encrypt a word")
+print("Press 2 to convert an encrypted word ")
 choice = int(input("Enter your choice"))
 if choice == 1:
     user_input = input("Enter a word")
